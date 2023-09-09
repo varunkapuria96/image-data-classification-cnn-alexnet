@@ -51,6 +51,6 @@ The code evaluates the model's accuracy on the test set and prints the results.
 
 ## Author
 
-[Your Name]
+Varun Kapuria
 
-For any questions or issues, please contact [Your Email Address].
+For any questions or issues, please contact varunkapuria@arizona.edu
